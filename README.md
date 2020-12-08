@@ -1,11 +1,5 @@
-# Gestorbene in Österreich / Deaths in Austria
+# Deaths in Hungary
 
-Analysis of data by Statistik Austria: https://data.statistik.gv.at/web/meta.jsp?dataset=OGD_gest_kalwo_GEST_KALWOCHE_100
+Forked from: https://github.com/attoPascal/statistik-austria-sterblichkeit
 
-Code in Jupyter Notebook `sterblichkeit.ipynb`
-
-![Deaths in Austria](https://github.com/attoPascal/statistik-austria-sterblichkeit/blob/main/deaths.gif?raw=true)
-
-![Gestorbene in Österreich](https://github.com/attoPascal/statistik-austria-sterblichkeit/blob/main/gestorbene.png?raw=true)
-
-![Unterschied zum Median](https://github.com/attoPascal/statistik-austria-sterblichkeit/blob/main/median.png?raw=true)
+![Deaths in Hungary](https://github.com/kockabence/statistik-austria-sterblichkeit/blob/main/deaths.gif?raw=true)
